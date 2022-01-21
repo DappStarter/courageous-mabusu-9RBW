@@ -1,0 +1,9 @@
+{
+    "name": "Ime",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/collection/core-entity": true
+    }
+}
